@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BT Tracker</string>
+    <string name="channel_name">BT Tracker</string>
+    <string name="channel_description">Captures location on Bluetooth disconnect</string>
+    <string name="notification_title">BT Tracker</string>
+    <string name="notification_text">Saving last location…</string>
+</resources>
