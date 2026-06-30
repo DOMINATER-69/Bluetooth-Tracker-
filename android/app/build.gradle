@@ -58,6 +58,7 @@ flutter {
 
 dependencies {
     implementation "androidx.core:core-ktx:1.13.1"
+    implementation "com.google.android.play:core:1.10.3"
     // Fused Location Provider — required by LocationCaptureService
     implementation "com.google.android.gms:play-services-location:21.3.0"
 }
